@@ -18,7 +18,7 @@ https://www.geeksforgeeks.org/how-to-use-chatgpt-api-in-python/
 
 
 import openai
-openai.api_key = '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'
+openai.api_key = 
 messages = [ {"role": "system", "content":
 			"You are a intelligent assistant."} ]
 while True:
